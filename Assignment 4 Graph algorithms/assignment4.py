@@ -1,7 +1,5 @@
 
 '''
-FIT2004 Assignmnent 4
-This module holds all of the relevant fuctions to perform task 1 , task 2 and task 3 of the fourth assignment for FIT2004
 Date: 28/05/2021
 '''
 __author__: "Vladislav Pikulin"
