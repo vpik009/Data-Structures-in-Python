@@ -1,6 +1,5 @@
 '''
-FIT2004 Assignmnent 2
-This module holds all of the relevant fuctions to perform task 1 and task 2 of the second assignment for FIT2004
+
 Date: 14/04/2021
 '''
 
