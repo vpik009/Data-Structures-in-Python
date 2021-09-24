@@ -1,6 +1,5 @@
 
 '''
-...
 Date: 7/05/2021
 '''
 __author__: "Vladislav Pikulin"
