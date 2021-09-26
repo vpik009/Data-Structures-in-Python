@@ -3,8 +3,6 @@ from assignment4 import best_trades, opt_delivery
 import random
 import time
 
-"""Hi guys. Hope these test cases are helpful. 
-"""
 
 class MyTestCase(unittest.TestCase):
     def test_best_trades_1(self):
