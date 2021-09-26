@@ -3,8 +3,6 @@ from assignment2 import best_schedule , best_itinerary
 import random
 import time
 
-"""Hi guys. Hope these test cases are helpful. It would be great if you could add some of you own tests to this file. You can just copy paste test_best_schedule_1 or test_best_itinerary1 and change values at #change. And change the number n in the method name to be one more than the previous testN
-"""
 
 class MyTestCase(unittest.TestCase):
     def test_best_schedule_1(self):
