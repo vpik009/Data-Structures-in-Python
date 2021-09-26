@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """ Unit testing for assignment 4
-Written / Assembled by Jotham Gates
-Created 11/05/2021
-Modified 12/05/2021
-Includes test cases from the instruction sheet
-FIT2004 Sem. 1 2021
+
 """
 
 import unittest
