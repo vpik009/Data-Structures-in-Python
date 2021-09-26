@@ -1,9 +1,7 @@
 """
-Large tests for FIT2004 Assignment 2.
-Tests are randomly generated but seeded the same so on each run they will generate the same random results.
-Change the constants and see how this affects your program.
 
-Author: Nam Tran
+Tests are randomly generated but seeded the same so on each run 
+
 """
 
 from random import randint, seed
