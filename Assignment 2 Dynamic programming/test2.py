@@ -1,8 +1,4 @@
-"""
 
-Tests are randomly generated but seeded the same so on each run 
-
-"""
 
 from random import randint, seed
 from assignment2 import best_schedule, best_itinerary
