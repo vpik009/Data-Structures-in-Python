@@ -1,2 +1,2 @@
 # About
-    A repository containing four folders related to algorithms and data structures
+    A repository containing four folders related to data structures & algorithms 
