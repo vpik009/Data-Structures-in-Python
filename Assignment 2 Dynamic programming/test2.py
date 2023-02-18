@@ -15,7 +15,7 @@ def generate_day(number_cities, min_profit, max_profit):
 
 if __name__ == "__main__":
     # Seed
-    SEED = "FIT2004"
+    SEED = "NAN2123"
 
     # Constants for best schedule. Test your own and check how long it takes!
     MIN_WINNINGS = 0
